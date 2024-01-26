@@ -1,26 +1,32 @@
 [
 {
 "COMPE": "001",
-"ISPB": "00000001"
-},
-{
-"COMPE": "002",
-"ISPB": "aaaaaaa2"
-},
-{
-"COMPE": "003",
-"ISPB": "03"
-},
-{
-"COMPE": "011",
-"ISPB": "88888888"
-},
-{
-"COMPE": "999",
-"ISPB": "04866275"
-},
-{
-"COMPE": "013",
-"ISPB": "99999999"
+"ISPB": "00000001",
+"Document": "00.000.000/0001-91",
+"LongName": "Banco do Brasil S.A.",
+"ShortName": "BCO DO BRASIL S.A.",
+"Network": "RSFN",
+"Type": "Banco Múltiplo",
+"PixType": "DRCT",
+"Charge": true,
+"CreditDocument": true,
+"LegalCheque": true,
+"DetectaFlow": false,
+"SalaryPortability": "Banco folha e Destinatário",
+"Products": [
+"Capital de Giro",
+"Cheque Especial",
+"Consignado",
+"Imobiliário",
+"Outros Créditos",
+"Pessoal",
+"Troca de Modalidade",
+"Veículos"
+],
+"Url": "https://www.bb.com.br",
+"DateOperationStarted": "2002-04-22",
+"DatePixStarted": "2020-11-03 06:30:00",
+"DateRegistered": "2021-05-05T09:11:12.7109988-03:00",
+"DateUpdated": "2023-10-21T12:05:56.1793808+00:00"
 }
 ]
